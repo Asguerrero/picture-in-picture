@@ -3,7 +3,8 @@
  This program resembles the picture in picture feature of some TV devices.  
  
  ## How to use
- 1. As soon as you enter the website the browser will ask you to choose the screen you'd like to share. Select accordingly <b>
+ 1. Go to https://asguerrero.github.io/picture-in-picture/ 
+ 1. As soon as you enter the website the browser will ask you to choose the screen you'd like to share. Select accordingly
  2. The program will later take you to the screen you selected. Come back to the picture-in-picture page and click start
  3. Adjust the size of the new screen depending on your preferences
  
